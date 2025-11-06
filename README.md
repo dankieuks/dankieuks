@@ -1,9 +1,11 @@
-# 👋 Hi there — tôi là **dankieuks**
+## 👋 Hi there, I'm dankieuks
 
-<!-- Banner chữ chạy ngang + typing SVG -->
-<marquee behavior="alternate" direction="left" scrollamount="6">
-  <h2>👋 Hi there — Welcome to my GitHub!</h2>
-</marquee>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=3AA0F7&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+dankieuks" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <p align="center">
   <!-- Typing SVG: chỉnh `lines=` để đổi nội dung -->
