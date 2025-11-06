@@ -1,10 +1,7 @@
-## 👋 Hi there, I'm dankieuks
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=3AA0F7&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+dankieuks;I+build+Moodle+plugins;Love+PHP+and+Next.js" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=2000&size=35&color=555555&width=435&lines=Hi+There!+👋;I'm+David" alt="Typing SVG" />
 </p>
+
 
 
 
