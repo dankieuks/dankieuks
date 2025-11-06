@@ -1,11 +1,16 @@
-<marquee behavior="scroll" direction="left" scrollamount="5">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=3AA0F7&width=435&lines=Hi+there+👋;I'm+David." alt="Typing SVG" />
-  </a>
+# 👋 Hi there — tôi là **dankieuks**
+
+<!-- Banner chữ chạy ngang + typing SVG -->
+<marquee behavior="alternate" direction="left" scrollamount="6">
+  <h2>👋 Hi there — Welcome to my GitHub!</h2>
 </marquee>
 
-<!--
-**dankieuks/dankieuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <!-- Typing SVG: chỉnh `lines=` để đổi nội dung -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=3AA0F7&width=700&lines=Hi+there+👋;I%27m+David+Kieu;I+build+things+with+PHP+%26+JS" alt="Typing SVG" />
+  </a>
+</p>
 
 Here are some ideas to get you started:
 
